@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um desenvolvedor back-end.<br>Estou atualmente a 1 ano estudando e usando várias linguagens de programação!<br>Tenho interesse em desenvolver APPs, jogos, algoritimos e aprender novas linguagens.<br>
+Sou um desenvolvedor de Software.<br>Estou atualmente a 1 ano estudando e usando várias linguagens de programação!<br>Tenho interesse em desenvolver sistemas, apps, jogos, algoritimos e aprender novas linguagens.<br>
 
 
 ## 🌐 Socials:
