@@ -35,7 +35,7 @@ Tenho perfil autodidata, gosto de desafios técnicos e estou sempre desenvolvend
 * **Lista de Contatos (Java)**
     Sistema CRUD com persistência em arquivo `.txt`, utilizando `ArrayList` e manipulação de arquivos.
 
-* **WebAPI (C# + MySQL)**
+* **RestAPI (C# + MySQL)**
     Aplicação com operações completas de Create, Read, Update e Delete integradas a banco de dados.
 
 * **NBT-Markdown-Linker (Em Desenvolvimento)**
